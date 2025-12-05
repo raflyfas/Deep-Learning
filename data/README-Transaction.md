@@ -37,7 +37,7 @@ Notebook ini menggunakan beberapa model machine learning:
 - Confusion Matrix\
 - ROC Curve & AUC Score
 
-### 👤 5. Identification
+### 👤 4. Identification
 
 **Name:** Rafly Fasha Purnomo Putra 
 **Class:** TK-46-03
