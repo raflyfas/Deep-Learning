@@ -5,7 +5,7 @@
 | Kategori | Detail |
 | :--- | :--- |
 | **Nama** | **Rafly Fasha Purnomo Putra** |
-| **Kelas** | **TK-46-03** |
+| **Kelas** | **TK-46-GAB** |
 | **NIM** | **1103223050** |
 
 ## 1. Tujuan Repositori
