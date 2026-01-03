@@ -49,7 +49,7 @@ Performa model diukur berdasarkan *Training Loss* dan metrik standar QA:
 File utama dalam proyek ini adalah:
 
 ```text
-├── notebook_lengkap_aman.ipynb   # Notebook utama berisi seluruh kode (pipeline)
+├── Task2.ipynb   # Notebook utama berisi seluruh kode (pipeline)
 ├── README.md                     # Dokumentasi proyek (file ini)
 └── requirements.txt              # (Opsional) Daftar library yang dibutuhkan
 ```
