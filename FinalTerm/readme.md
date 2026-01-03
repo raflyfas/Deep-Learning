@@ -2,7 +2,7 @@
 
 Repositori ini berisi implementasi **Task 2** untuk tugas Deep Learning NLP. Proyek ini berfokus pada teknik *fine-tuning* model **Sequence-to-Sequence (Seq2Seq)** menggunakan arsitektur Transformer untuk melakukan *Generative Question Answering*.
 
-## 👤 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 | Informasi | Detail |
 | :--- | :--- |
@@ -13,7 +13,7 @@ Repositori ini berisi implementasi **Task 2** untuk tugas Deep Learning NLP. Pro
 
 ---
 
-## 📌 Gambaran Umum Proyek
+## Gambaran Umum Proyek
 
 Tujuan dari repositori ini adalah untuk mendemonstrasikan kemampuan **Generative Transformers** dalam pemrosesan bahasa alami (NLP). Berbeda dengan model *Extractive QA* (seperti BERT) yang hanya memprediksi indeks awal dan akhir jawaban dalam teks, proyek ini menggunakan **T5 (Text-to-Text Transfer Transformer)** untuk menghasilkan teks jawaban secara langsung (generatif).
 
@@ -24,7 +24,7 @@ Tujuan dari repositori ini adalah untuk mendemonstrasikan kemampuan **Generative
 
 ---
 
-## 🧠 Deskripsi Model & Hasil Evaluasi
+## Deskripsi Model & Hasil Evaluasi
 
 ### 1. Arsitektur Model: T5-Base
 Kami menggunakan model **T5 (Text-to-Text Transfer Transformer)** dari Google.
@@ -44,7 +44,7 @@ Performa model diukur berdasarkan *Training Loss* dan metrik standar QA:
 
 ---
 
-## 📂 Struktur Repositori & Navigasi
+## Struktur Repositori & Navigasi
 
 File utama dalam proyek ini adalah:
 
@@ -52,6 +52,7 @@ File utama dalam proyek ini adalah:
 ├── notebook_lengkap_aman.ipynb   # Notebook utama berisi seluruh kode (pipeline)
 ├── README.md                     # Dokumentasi proyek (file ini)
 └── requirements.txt              # (Opsional) Daftar library yang dibutuhkan
+```
 ---
 
 **## Panduan Navigasi notebook_lengkap_aman.ipynb**
