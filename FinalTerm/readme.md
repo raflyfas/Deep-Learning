@@ -67,7 +67,7 @@ Notebook disusun secara berurutan sebagai berikut:
 | **Training (Fine-Tuning)** | [Melatih model t5-base menggunakan Seq2SeqTrainer] |
 | **Inference (Testing)** | [Bagian pengujian manual di mana Anda bisa memasukkan konteks dan pertanyaan sendiri (contoh: pertanyaan tentang "Monas") untuk melihat jawaban model] |
 ---
-**## Cara Menjalankan**
+## Cara Menjalankan
 1. Clone repositori ini atau unduh file .ipynb.
 
 2. Buka file notebook menggunakan Google Colab (disarankan) atau Jupyter Lab.
