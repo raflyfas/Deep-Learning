@@ -1,0 +1,13 @@
+transformers[torch]
+datasets
+accelerate
+sentencepiece
+evaluate
+rouge_score
+sacrebleu
+numpy
+tqdm
+wandb
+ipywidgets
+openpyxl
+protobuf
