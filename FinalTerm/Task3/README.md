@@ -66,8 +66,8 @@ This setup allows stable training on GPUs with limited VRAM.
 
 | Parameter | Value |
 |---------|------|
-| Training Samples | 5,000 |
-| Validation Samples | 500 |
+| Training Samples | 1000 |
+| Validation Samples | 100 |
 | Epochs | 2 |
 | Batch Size | 2 |
 | Gradient Accumulation | 8 (effective batch size = 16) |
