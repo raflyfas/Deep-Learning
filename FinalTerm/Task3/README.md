@@ -110,8 +110,11 @@ This behavior is consistent with known challenges of abstractive summarization o
 
 ## Repository Structure
 ├── finetuning-phi-2-text-summarization.ipynb # Main notebook
+
 ├── model_trained/ # Fine-tuned LoRA adapters and tokenizer
+
 ├── requirements.txt/ # Requirements for running this program
+
 └── README.md # Project documentation
 
 ---
